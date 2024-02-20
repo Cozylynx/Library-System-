@@ -46,3 +46,36 @@ Name: Programming Basics
 Total Quantity: 5
 
 ...
+```
+## Contributing
+
+Contributions are welcome! Feel free to submit bug reports, feature requests, or contribute code.
+
+1. **Fork the Repository:**
+    ```bash
+    git clone https://github.com/your-username/library-management-system.git
+    ```
+
+2. **Create a Branch:**
+    ```bash
+    cd library-management-system
+    git checkout -b feature/new-feature
+    ```
+
+3. **Make Changes:**
+    - Make your changes and commit:
+    ```bash
+    git add .
+    git commit -m 'Add new feature'
+    ```
+
+4. **Push to the Branch:**
+    ```bash
+    git push origin feature/new-feature
+    ```
+
+5. **Submit a Pull Request:**
+    - Submit a pull request from your branch to the main repository.
+
+**Note:** Ensure that your code follows the project's coding standards and guidelines. Please write clear commit messages and comments to enhance code readability.
+
